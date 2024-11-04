@@ -61,3 +61,13 @@ Main aspects of this data preparation
 ### 2. Data visualization in BigQuery
 The dashboard was created from the analysis table, visualizing the summary of the table through snapshot data, sales comparison throughout the years, top performing provinces, braches with highest branch ranking and lower transaction ranking as well as a geo map displaying each provinces nett profit with date control as a filter. 
 
+The completed dashboard can be accessed [here](https://lookerstudio.google.com/s/lF9OXR_Fuuc).
+
+Main insights from the dashboard:
+* The highest nett sales is in 2022 where it had 168k transactions, 80.6B sales and 22.9B profit.
+* Jawa Barat is the leading province in both total transactions and net sales
+* Fluctuation in nett sales whereby it peaks in 2022 and had a slight decrease in 2023
+* Kimia Farma has a total of 2000 branches, which distributed across three types, namely, Apotek, Klinik dan Apotek, and Klinik, Apotek and Laboratorium.
+* Despite having a high rating as a branch, the transaction rating for these branches are slightly lower
+* The geo map shows color coded profit distribution by province, with Java provinces showing more activity and profitability than outer regions
+
